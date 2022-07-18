@@ -1,0 +1,93 @@
+header {
+    height: 10vh;
+}
+
+.generalContainer {
+    height: 90vh;
+    
+}
+
+.productsContainer {
+    height: 100%;
+    margin-top: 10vh;
+    border-radius: 20px;
+    overflow-y: scroll;
+    text-align: center;
+
+    
+    
+   
+}
+
+.cartContainer {
+    
+    height: 50%;
+
+    border-radius: 20px;
+    padding: 10vh;
+   
+    overflow-y: scroll;
+    background-color: rgb(1, 24, 25);
+    max-height: 600px;
+    margin-top: 25vh;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    
+    
+}
+
+.productoImg {
+    padding: 10px;
+    max-height: 500px;
+    
+    
+    
+    
+}
+
+.innerCart {
+
+    
+    border: 1px solid rgb(4, 100, 121);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vh;
+    background-color: cover rgb(39, 39, 40);
+    color: black;
+    display: table-row;
+    
+    
+}
+
+.btnUps {
+
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.cartContainer h3 {
+    color: green;
+}
+
+
+.cards {
+    width: 100vh;
+    text-align: center;
+}
+
+.tittle {
+    font-size: 5vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.generalContainer h2,h3 {
+    font-size: 2vh;
+    
+}
+
